@@ -46,6 +46,7 @@ I'm **[`Scratch`](https://www.youtube.com/@Scratch_malayalam)**, a Certified Eth
 <img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+<img src="https://img.shields.io/badge/JR%20Pentester-Certified-red?style=for-the-badge&color=000000" alt="JR Pentester Badge" />
 
 </div>
 
