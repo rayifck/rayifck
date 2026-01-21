@@ -50,7 +50,7 @@ I'm **[`Rayif ck`](https://in.linkedin.com/in/rayifkp)**, an **Aspiring Penetrat
 <h2 id="tools_techniques" align=''> Tools & Techniques </h2>
 
 - **Enumeration &  Reconnaissance**: Nmap, Nessus, ffuf, Wappalyzer, Google Dorking
-- **Web Application Testing**: Burp Suite
+- **Web Application Testing**: Burp Suite,OWASP Top 10
 - **Exploitation Frameworks**: Metasploit, Searchsploit, meterpreter  
 - **Password Attacks**: Hashcat, John the Ripper, Hydra  
 - **Privilege Escalation**: LinPEAS, WinPEAS  
